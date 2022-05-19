@@ -64,7 +64,6 @@ function TodoProvider(props) {
         setOpenModal,
       }}
     >
-      {' '}
       {props.children}
     </TodoContext.Provider>
   );
