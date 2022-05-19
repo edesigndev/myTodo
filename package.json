@@ -1,5 +1,5 @@
 {
-  "name": "myTodo",
+  "name": "todo-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -40,5 +40,5 @@
   "devDependencies": {
     "gh-pages": "^4.0.0"
   },
-  "homepage": "https://edesigndev.github.io/myTodo"
+  "homepage": "https://edesigndev.github.io/todo-app"
 }
